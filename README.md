@@ -12,3 +12,6 @@
 
 ### 6장. 서비스 디스커버리
 - [ 기술 블로그 ](https://blank001.tistory.com/203)
+
+### 7장. 나쁜 상황에 대비한 스프링 클라우드와 Resilience4j를 사용한 회복성 패턴
+- [ 기술 블로그 ](https://blank001.tistory.com/205)
